@@ -55,7 +55,7 @@ This sheet explains optimization details and numbers which are present in "elm_a
 Please consider this an auxillary work aside from main optimization. The reason to present is to show-case working and method which can help us optimizaed further if we have additional information and some assumptions. 
 
 1. Lagrange Optimization
-2. Operation Research (Production line problem) for resource optimization
+2. Linear Programming (Production line problem) for resource optimization
 
 I also thought to handle the problem using Dynamic programming (Knapsack) problem if we want to make all available inspectors profitable however the design of the problem only support greedy approches. We can use this appraoch if certain const or distances are included in the problem statement.
 

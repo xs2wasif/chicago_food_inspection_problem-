@@ -24,7 +24,7 @@ Keeping the optimization as the ultimate goal, I have divided the problem into t
 2. Train/test/validation split (Generally, 80% training, 20% testing)
 3. Feature Engineering (RFE/SelectK/Tree-based)
 5. Class Imbalance (SMOTE)
-6. Hyperparameter tuning
+6. Hyperparameter tuning (used Hyperopt. Tried GridSearch & RandomSearch but they were taking a lot of time for optimization. Played a little with Bayes Opt as well)
 7. Classification Models 
     i. XGBoost
     ii. LightGBM

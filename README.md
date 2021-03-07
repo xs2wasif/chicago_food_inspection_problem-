@@ -45,7 +45,7 @@ I tried to optimize nunmber of layers and node per layer on the dataset. However
 
 # 3. Optimizing :: minimizing number of visits for inspection & maximize operational profits
 
-### c
+### elm_assignment_summary_&_optimizated_solution
 This file contain summary of all the component combination used for prediction and what optimization each combination brings. I tried to be as thorough as possible while predicting to make the best optimization. This sheet contains summary considering the test-split as "unknown" label data to see what optimization is possible. Also it contains the most optimized based on the working. I would like to request to discuss this sheet so that I can explain the working done for optimization.
 
 ### elm_assignment_optimization_mechanics
@@ -58,5 +58,8 @@ Please consider this an auxillary work aside from main optimization. The reason 
 2. Operation Research (Production line problem) for resource optimization
 
 I also thought to handle the problem using Dynamic programming (Knapsack) problem if we want to make all available inspectors profitable however the design of the problem only support greedy approches. We can use this appraoch if certain const or distances are included in the problem statement.
- 
+
+Looking forward to present demo on the working.
+
+Adios.!
 

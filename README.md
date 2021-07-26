@@ -1,4 +1,4 @@
-# ELM ASSIGNMENT - CHICAGO FOOD INSPECTION PREDICTION & OPTIMIZATION
+# Assignment - CHICAGO FOOD INSPECTION PREDICTION & OPTIMIZATION
 
 ## inspection_problem.docx 
 Problem statement mentioning the details of the problem to solve. Thanks to Sustainabilist link which provides me support to prepare model training data. Already processed data is placed in "input" folder. 
